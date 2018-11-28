@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 merge local trivial 01
 
 
@@ -14,3 +15,21 @@ merge local trivial 05
 
 
 merge local 06
+=======
+merge local trivial 01
+
+
+merge remoto 02
+
+
+merge local trivial 03
+
+
+merge remoto 04
+
+
+merge local trivial 05
+
+
+merge remoto 06
+>>>>>>> branch 'test1' of https://gitlab.com/ibm-apollo/piloto/treinamento-git.git
